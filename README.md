@@ -28,5 +28,6 @@ It predicts a person’s stress level based on lifestyle and health data like sl
 ---
 
 ## 🔗 API
-- ** API **: https://stressdetection-model-api.onrender.com
-- ** DOCS **: https://stressdetection-model-api.onrender.com/docs
+- **API**: https://stressdetection-model-api.onrender.com
+- **API DOCS**: https://stressdetection-model-api.onrender.com/docs
+
