@@ -26,3 +26,7 @@ It predicts a person’s stress level based on lifestyle and health data like sl
 - **Frontend (optional demo)**: React / Next.js + Axios or Fetch API  
 
 ---
+
+## 🔗 API
+- ** API **: https://stressdetection-model-api.onrender.com
+- ** DOCS **: https://stressdetection-model-api.onrender.com/docs
