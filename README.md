@@ -6,8 +6,11 @@ Hi! This is my machine learning project where I built an API that can predict ho
 
 Basically, you send some data about a person (like how much they sleep, their age, heart rate, etc.) and my API will predict their stress level on a scale. I trained a machine learning model using Python and then wrapped it in a web API so other apps can use it.
 
-**Live Demo**: [My deployed UI](https://stress-detection-ui.vercel.app/) (still working on deploying this!)
-**Live API**: [My deployed API](https://stressdetection-model-api.onrender.com/) (still working on deploying this!)
+**Live Demo**: [My deployed UI](https://stress-detection-ui.vercel.app/) 
+
+**Live API**: [My deployed API](https://stressdetection-model-api.onrender.com/) 
+
+**Collab Notebook**: [Model Training](https://colab.research.google.com/drive/1zFovumnH23jQmn-bw1zwwL3NzLetxIu2?usp=sharing) 
 
 ## How I built this
 
@@ -111,4 +114,5 @@ Built by me during my semester project 📚
 
 ---
 *P.S. - This was way harder than I expected but super fun to build!*
+
 
