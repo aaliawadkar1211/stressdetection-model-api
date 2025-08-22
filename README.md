@@ -6,7 +6,8 @@ Hi! This is my machine learning project where I built an API that can predict ho
 
 Basically, you send some data about a person (like how much they sleep, their age, heart rate, etc.) and my API will predict their stress level on a scale. I trained a machine learning model using Python and then wrapped it in a web API so other apps can use it.
 
-**Live Demo**: [My deployed API](your-api-url-here) (still working on deploying this!)
+**Live Demo**: [My deployed UI](https://stress-detection-ui.vercel.app/) (still working on deploying this!)
+**Live API**: [My deployed API](https://stressdetection-model-api.onrender.com/) (still working on deploying this!)
 
 ## How I built this
 
@@ -91,7 +92,6 @@ my-stress-api/
 
 - How to train a machine learning model and save it
 - FastAPI is really beginner-friendly compared to other frameworks
-- CORS was confusing at first but needed for my frontend
 - Deploying ML models is harder than I thought!
 
 ## Known issues (still fixing these!)
@@ -101,14 +101,7 @@ my-stress-api/
 - Want to try other ML algorithms to improve accuracy
 - The model file is pretty big, looking into ways to make it smaller
 
-## What's next
 
-I'm working on:
-- [ ] A nice frontend to actually use this (Next.js)
-- [ ] Better data validation 
-- [ ] More features for the model
-- [ ] Proper testing (I know I should've done this first...)
-- [ ] Deploy it somewhere free like Render
 
 ## Important note!
 
@@ -118,3 +111,4 @@ Built by me during my semester project 📚
 
 ---
 *P.S. - This was way harder than I expected but super fun to build!*
+
